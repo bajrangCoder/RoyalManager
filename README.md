@@ -1,7 +1,4 @@
 # RoyalManager
-A gui packages manager for termux
-
-# RoyalManager
 
 A gui package manager for termux x11. 
 
