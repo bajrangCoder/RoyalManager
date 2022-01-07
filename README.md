@@ -87,3 +87,5 @@ Any errors or suggestions report it to: https://github.com/nkray-raunak123/Royal
 
 I hope you like this work, don't forget to leave your ⭐ and share it.
 
+If you want to donate to this little project [contact me](mailto:nkray21111983@gmail.com)
+
