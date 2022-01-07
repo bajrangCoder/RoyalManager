@@ -60,6 +60,25 @@ Some termux desktop setup repositories are:
 - [termux-desktop](https://github.com/adi1090x/termux-desktop)
 - [termux-desktop-lxqt](https://github.com/Yisus7u7/termux-desktop-lxqt)
 
+
+## Screenshots
+
+![App Screenshot1](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+![App Screenshot2](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+![App Screenshot3](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+
+![App Screenshot4](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+![App Screenshot5](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+![App Screenshot6](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+![App Screenshot7](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+
+
 ### Author
 
 - [@Raunak Raj](https://www.github.com/nkray-raunak123)
