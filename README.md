@@ -65,18 +65,18 @@ Some termux desktop setup repositories are:
 
 ![App Screenshot1](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
 
-![App Screenshot2](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+![App Screenshot2](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125154.jpg)
 
-![App Screenshot3](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+![App Screenshot3](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125139.jpg)
 
 
-![App Screenshot4](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+![App Screenshot4](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125123.jpg)
 
-![App Screenshot5](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+![App Screenshot5](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125108.jpg)
 
-![App Screenshot6](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+![App Screenshot6](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125046.jpg)
 
-![App Screenshot7](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125222.jpg)
+![App Screenshot7](https://github.com/nkray-raunak123/RoyalManager/blob/master/screenshots/20220107_125010.jpg)
 
 
 ### Author
