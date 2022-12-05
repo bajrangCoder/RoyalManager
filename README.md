@@ -2,10 +2,6 @@
 
 A gui package manager for termux x11. 
 
-Note: This project is not completed! But you can use it. In future there some update will come.
-
-
-
 
 ## What is RoyalManager
 RoyalManager is a gui interface termux package manager.
